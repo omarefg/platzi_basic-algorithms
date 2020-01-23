@@ -2,8 +2,8 @@
 #include "stdio.h"
 #include "string.h"
 
-struct client 
-{    
+struct client
+{
     char Name[50];
     char Id[10];
     float Credit;
