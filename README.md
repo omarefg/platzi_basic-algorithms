@@ -10,3 +10,4 @@
     5. [Variables y tipos de datos](/introduccion_a_los_algoritmos/variables_y_tipos_de_datos/variables_y_tipos_de_datos.md)
     6. [User defined data types](/introduccion_a_los_algoritmos/user_defined_data_types/user_defined_data_types.md)
     7. [Abstract data types](/introduccion_a_los_algoritmos/abstract_data_types/abstract_data_types.md)
+    8. [Creando tu primera Queue](/introduccion_a_los_algoritmos/creando_tu_primera_queue/creando_tu_primera_queue.md)
