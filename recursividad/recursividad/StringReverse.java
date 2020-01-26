@@ -4,7 +4,7 @@ public class StringReverse {
         if (str.isEmpty()) {
             return str;
         } else {
-            return reverseString(str.substring(1)) + str.charAt(0);
+            return this.reverseString(str.substring(1)) + str.charAt(0);
         }
     }
 

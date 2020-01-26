@@ -11,3 +11,10 @@
     6. [User defined data types](/introduccion_a_los_algoritmos/user_defined_data_types/user_defined_data_types.md)
     7. [Abstract data types](/introduccion_a_los_algoritmos/abstract_data_types/abstract_data_types.md)
     8. [Creando tu primera Queue](/introduccion_a_los_algoritmos/creando_tu_primera_queue/creando_tu_primera_queue.md)
+2. **Algoritmos de ordenamiento**
+    1. [Algoritmos de ordenamiento](/algoritmos_de_ordenamiento/algoritmos_de_ordenamiento/algoritmos_de_ordenamiento.md)
+    2. [Bubble sort](/algoritmos_de_ordenamiento/bubble_sort/bubble_sort.md)
+    3. [Insertion sort](/algoritmos_de_ordenamiento/insertion_sort/insertion_sort.md)
+    4. [Quick sort](/algoritmos_de_ordenamiento/quick_sort/quick_sort.md)
+3. **Recursividad**
+    1. [Recursividad](/recursividad/recursividad/recursividad.md)

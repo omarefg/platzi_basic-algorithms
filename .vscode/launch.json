@@ -8,6 +8,13 @@
             "type": "java",
             "name": "CodeLens (Launch) - StringReverse",
             "request": "launch",
+            "mainClass": "recursividad.recursividad.StringReverse",
+            "projectName": "basic-algorithms_7101fd64"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringReverse",
+            "request": "launch",
             "mainClass": "StringReverse"
         },
         {
