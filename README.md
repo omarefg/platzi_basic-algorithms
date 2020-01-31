@@ -18,3 +18,7 @@
     4. [Quick sort](/algoritmos_de_ordenamiento/quick_sort/quick_sort.md)
 3. **Recursividad**
     1. [Recursividad](/recursividad/recursividad/recursividad.md)
+4. **Divide and Conquer y programación dinámica**
+    1. [Divide and conquer (divide y vencerás)](/divide_and_conquer_y_programacion_dinamica/divide_and_conquer/divide_and_conquer.md)
+    2. [¿Qué es la programación dinámica? (divide y vencerás v2.0)](/divide_and_conquer_y_programacion_dinamica/que_es_la_programacion_dinamica/que_es_la_programacion_dinamica.md)
+    3. [Merge Sort](/divide_and_conquer_y_programacion_dinamica/merge_sort/merge_sort.md)
