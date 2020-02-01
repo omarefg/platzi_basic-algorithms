@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 void merge(int arr[], int l, int m, int h) {
+    // Two temporary arrays to hold the two arrays to be merged
     int arr1[h];
     int arr2[h];
     int i;
@@ -14,15 +15,16 @@ void merge(int arr[], int l, int m, int h) {
     for (j = 0; j < n2; j++) {
         arr2[j] = arr[m + j + 1];
     }
+    // To mark the end of each temporary array
     arr1[i] = 9999;
     arr2[j] = 9999;
     i = 0;
     j = 0;
     for (int k = l; k <= h; k++) {
         if (arr1[i] <= arr2[j]) {
-            arr[k] = arr1[i + 1];
+            arr[k] = arr1[i++];
         } else {
-            arr[k] = arr2[j + 1];
+            arr[k] = arr2[j++];
         }
     }
 }

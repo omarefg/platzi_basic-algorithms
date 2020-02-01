@@ -11,4 +11,4 @@ Un algoritmo es un conjunto de instrucciones que resuelven un problema dado paso
 
 ## Algoritmo de Dijkstra, o algoritmo de la ruta más corta
 
-El algoritmo de Dijkstra, también llamado algoritmo de caminos mínimos, es un algoritmo para la determinación del camino más corto, dado un vértice origen, hacia el resto de los vértices en un grafo que tiene pesos en cada arista. Su nombre alude a Edsger Dijkstra, científico de la computación de los Países Bajos que lo describió por primera vez en 1959. [Más información](https://es.wikipedia.org/wiki/Algoritmo_de_Dijkstra)
+El algoritmo de Dijkstra, también llamado algoritmo de caminos mínimos, es un algoritmo para la determinación del camino más corto, dado un vértice origen, hacia el resto de los vértices en un grafo que tiene pesos en cada arista. Su nombre alude a Edsger Dijkstra, científico de la computación de los Países Bajos que lo describió por primera vez en 1959. [Más información](https://www.ecured.cu/Algoritmo_de_Dijkstra)

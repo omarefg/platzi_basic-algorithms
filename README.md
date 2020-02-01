@@ -15,10 +15,17 @@
     1. [Algoritmos de ordenamiento](/algoritmos_de_ordenamiento/algoritmos_de_ordenamiento/algoritmos_de_ordenamiento.md)
     2. [Bubble sort](/algoritmos_de_ordenamiento/bubble_sort/bubble_sort.md)
     3. [Insertion sort](/algoritmos_de_ordenamiento/insertion_sort/insertion_sort.md)
-    4. [Quick sort](/algoritmos_de_ordenamiento/quick_sort/quick_sort.md)
 3. **Recursividad**
     1. [Recursividad](/recursividad/recursividad/recursividad.md)
 4. **Divide and Conquer y programación dinámica**
     1. [Divide and conquer (divide y vencerás)](/divide_and_conquer_y_programacion_dinamica/divide_and_conquer/divide_and_conquer.md)
     2. [¿Qué es la programación dinámica? (divide y vencerás v2.0)](/divide_and_conquer_y_programacion_dinamica/que_es_la_programacion_dinamica/que_es_la_programacion_dinamica.md)
     3. [Merge Sort](/divide_and_conquer_y_programacion_dinamica/merge_sort/merge_sort.md)
+    4. [Quick sort](/divide_and_conquer_y_programacion_dinamica/quick_sort/quick_sort.md)
+5. **Algoritmos Greedy**
+    1. [¿Qué son los algoritmos Greedy?](/algoritmos_greedy/que_son_los_algoritmos_greedy/que_son_los_algoritmos_greedy.md)
+6. **Grafos y árboles**
+    1. [Grafos y sus aplicaciones](/grafos_y_arboles/grafos_y_sus_aplicaciones/grafos_y_sus_aplicaciones.md)
+    2. [Árboles](/grafos_y_arboles/arboles/arboles.md)
+7. **¿Cómo comparar algoritmos?**
+    1. [Cómo comparar algoritmos y ritmo de crecimiento](/como_comparar_algoritmos/como_comparar_algoritmos_y_ritmo_de_crecimiento/como_comparar_algoritmos_y_ritmo_de_crecimiento.md)

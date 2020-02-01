@@ -9,3 +9,4 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 ## Implementaciones
 
 1. [Merge sort en C](./merge_sort.c)
+2. [Merge sort en JS](./merge_sort.js)
